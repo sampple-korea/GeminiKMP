@@ -2,6 +2,7 @@
 
 import java.util.Properties
 
+
 plugins {
     alias(libs.plugins.androidApplication)
     kotlin("android")
